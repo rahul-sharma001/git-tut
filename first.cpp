@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-    cout<<"Namaste world"<<endl;
+    cout<<"in development branch"<<endl;
 }
